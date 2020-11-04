@@ -1,6 +1,6 @@
 # OpenFormsCenteredToParentAddon
 
-This add-on adds set for all opening  `FormBase`derived forms the `StartPosition` property to `FormStartPosition.CenterParent`.
+This add-on sets for all opening windows derived from `FormBase` the property `StartPosition` to `FormStartPosition.CenterParent`.
 
 ## Releases
 
